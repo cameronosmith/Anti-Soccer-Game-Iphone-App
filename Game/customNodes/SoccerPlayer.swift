@@ -2,7 +2,7 @@
 //  Player.swift
 //  antiSoccerGame2
 //
-//  Created by Rachel Corren on 7/9/18.
+//  Created by Cameron Smith on 7/9/18.
 //  Copyright © 2018 com.cameronSmith. All rights reserved.
 //
 
